@@ -6,9 +6,9 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) e apaixonada 
 ---
 
 ## 🚀 Sobre mim
-- 🎨 **Freelancer em Arte Digital**: Ilustrações e design digital usando Photoshop, Clip Studio Paint, Live2D e Figma.
+- 🎨 **Freelancer em Arte Digital**: Ilustrações e design digital usando Photoshop, Clip Studio Paint, Live2D e Figma (UI/UX Design)
 - 🤖 **Desenvolvimento de Bots para Discord**: Criei e mantenho o bot [Caffeiny](https://github.com/akyparfait/Caffeiny) com automações e interações personalizadas.
-- 📚 **Projetos Acadêmicos**: Desenvolvi o [CodeplaC](http://www.codeplac.com.br), um sistema de gestão de eventualidades de programação em Java com Spring Boot e MySQL.
+- 📚 **Projetos Acadêmicos**: Desenvolvi o [CodeplaC](http://www.codeplac.com.br) Como projeto educacional da faculdade!
 - 🎮 **Geek & Gamer**: Adoro jogos, animes e tudo que envolve cultura geek! 🕹️
   
 ---
@@ -44,11 +44,15 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) e apaixonada 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge&logo=trello&logoColor=white)
+![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20%C3%81geis-FBA919?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
 
 ## 📌 Projetos Destacados
 🔹 **[Caffeiny - Bot para Discord](https://github.com/)** - Bot desenvolvido em JavaScript + Node.js + Discord.js.
+
 🔹 **[CodeplaC](http://www.codeplac.com.br)** - Sistema de gestão de eventualidades de programação, desenvolvido em Java com Spring Boot e MySQL.
 
 ---
