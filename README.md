@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Ágatha Ariell (AkyParfait)!
+# 👋 Opa, eu sou a Ágatha Ariell (AkyParfait)!
 
 ### 💻 Desenvolvedora Júnior | Estudante de ADS
 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) e apaixonada por tecnologia! Tenho experiência em projetos acadêmicos e freelas, buscando sempre aprimorar minhas habilidades e contribuir com a comunidade dev.
