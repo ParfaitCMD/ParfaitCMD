@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) e apaixonada 
 ## 🚀 Sobre mim
 - 🎨 **Freelancer em Arte Digital**: Ilustrações, sprites para jogos e design digital usando Photoshop, aseprite, Clip Studio Paint, Live2D e Figma (UI/UX Design)
 - 🤖 **Desenvolvimento de Bots para Discord**: Criei e mantenho o bot [Caffeiny](https://github.com/ParfaitCMD/CaffeinyCodBase) com automações e interações personalizadas.
-- 📚 **Projetos Acadêmicos**: Colaborei com o desenvolvimento do [CodeplaC](http://www.codeplac.com.br) Como projeto para a faculdade!
+- 📚 **Projetos Acadêmicos**: Colaborei com o desenvolvimento e liderança do [CodeplaC](http://www.codeplac.com.br) Como projeto!
 - 🎮 **Geek & Gamer**: Adoro jogos, animes e tudo que envolve cultura geek! 🕹️
   
 ---
