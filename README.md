@@ -39,6 +39,8 @@ Além do mundo da programação, sou **artista freelancer em arte digital**, cri
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) (em aprendizado)
 
+![Assembly](https://img.shields.io/badge/Assembly-FF69B4?style=for-the-badge&logo=asm&logoColor=white) (em aprendizado)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) (em aprendizado)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) (em aprendizado)
