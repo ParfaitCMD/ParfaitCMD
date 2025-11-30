@@ -1,9 +1,5 @@
 # 👋 Opa, eu sou a Ágatha Ariell (AkyParfait)!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParfaitCMD&theme=dracula&count_private=true&show_icons=false&hide_title=true&hide_rank=true&hide=issues,prs,stars,repos,followers,contribs&include_all_commits=true&bg_color=282a36&border_color=282a36&custom_title=Commits" alt="Contador de Commits" />
-</p>
-
 ### 💻 Desenvolvedora Júnior | Estudante de Análise e Desenvolvimento de Sistemas
 
 Estudante de ADS (4º semestre) e apaixonada por tecnologia. Tenho experiência em **projetos acadêmicos, projetos próprios e freelances**, sempre em busca de aprimorar minhas habilidades e contribuir para a comunidade desenvolvedora.
@@ -36,6 +32,7 @@ Além do mundo da programação, sou **artista freelancer em arte digital**, cri
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) (em aprendizado)
 
@@ -43,7 +40,6 @@ Além do mundo da programação, sou **artista freelancer em arte digital**, cri
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) (em aprendizado)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) (em aprendizado)
 
 
 ### 🔹 Frameworks & Bibliotecas
