@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedora Júnior | Estudante de Análise e Desenvolvimento de Sistemas
 
-Estudante de ADS (5º semestre) e apaixonada por tecnologia. Tenho experiência em **projetos acadêmicos, projetos próprios e freelances**, sempre em busca de aprimorar minhas habilidades e contribuir para a comunidade desenvolvedora.
+Apaixonada por tecnologia. Tenho experiência em **projetos acadêmicos, projetos próprios e freelances**, sempre em busca de aprimorar minhas habilidades e contribuir para a comunidade desenvolvedora.
 
 Além do mundo da programação, sou **artista freelancer em arte digital**, criando ilustrações e sprites para jogos. Essa dupla paixão me dá uma visão única, combinando lógica e criatividade para construir soluções completas e atraentes.
 
