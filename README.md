@@ -59,5 +59,5 @@ Além do mundo da programação, sou **artista freelancer em arte digital**, cri
 ## 📌 Projetos Destacados
 
 - 🤖 **[Caffeiny - Bot para Discord](https://github.com/ParfaitCMD/CaffeinyCodBase)** - Automação desenvolvida em **JavaScript (Node.js)** para gestão de comunidades do discord.
-- 💻 **[CodeplaC](http://www.codeplac.com.br)** - Sistema de gestão de eventos de programação desenvolvido com **Java/Spring Boot**.
+- 💻 **[CodeplaC](https://github.com/1-Codeplac/Codeplac.git)** - Sistema de gestão de eventos de programação desenvolvido com **Java/Spring Boot**.
 - 📂 **[Incognidex](https://github.com/incognidex/Incognidex.git)** - *Projeto Legado/Showcase*. Repositório mantido para demonstração de código e estrutura de Java (springboot).
