@@ -1,4 +1,4 @@
-# 👋 Opa, eu sou a Ágatha Ariell (AkyParfait)!
+# 👋 Aky | Ágatha Ariell
 
 ### 💻 Desenvolvedora Júnior | Estudante de Análise e Desenvolvimento de Sistemas
 
