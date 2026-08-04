@@ -52,7 +52,7 @@ Combino raciocínio lógico e visão analítica para entregar soluções escalá
 ### 📌 [Incognidex](https://github.com/incognidex/Incognidex.git)
 - **Descrição:** Aplicação web para gerenciamento e catalogação de dados e informações.
 - **Contribuição:** Desenvolvimento da camada de dados, regras de negócio e endpoints RESTful.
-- **Tecnologias:** TypeScript, Node.js, React, MySQL.
+- **Tecnologias:** Javascript, Node.js, React, MySQL.
 
 ### 📌 [The Void of Marah](https://github.com/GameIndexGlitch/GameIndexu.git)
 - **Descrição:** Jogo eletrônico 2D focado em batalha de turno e narrativa interativa.
